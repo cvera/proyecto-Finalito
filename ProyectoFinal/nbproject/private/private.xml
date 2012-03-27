@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+<<<<<<< HEAD
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
         <file>file:/C:/Users/CARLOS/Carlos/POO---RRHH/ProyectoFinal/src/modelos/Usuario.java</file>
         <file>file:/C:/Users/CARLOS/Carlos/POO---RRHH/ProyectoFinal/src/modelos/Empleado.java</file>
@@ -18,4 +19,6 @@
         <file>file:/C:/Users/CARLOS/Carlos/POO---RRHH/ProyectoFinal/test/controladoras/AdmTareasGTest.java</file>
         <file>file:/C:/Users/CARLOS/Carlos/POO---RRHH/ProyectoFinal/test/controladoras/AdmDeclaracionesJTest.java</file>
     </open-files>
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 </project-private>

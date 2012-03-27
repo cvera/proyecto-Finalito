@@ -4,16 +4,20 @@
  */
 package controladoras;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import modelos.Administrador;
 
 
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 /**
  *
  * @author CARLOS
  */
 public class AdmAdministrador {
     
+<<<<<<< HEAD
     private ArrayList<Administrador> dbAdministrador=new ArrayList<Administrador>();
     
     private void simularTabla(){
@@ -54,4 +58,6 @@ public class AdmAdministrador {
        }
        return acceso;
    }
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 }

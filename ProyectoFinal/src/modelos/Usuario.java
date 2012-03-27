@@ -4,6 +4,7 @@ package modelos;
 
 public class Usuario {
     String nombre;
+<<<<<<< HEAD
     String apellidoPaterno;
     String apellidoMaterno;
     String dni;
@@ -85,6 +86,25 @@ public class Usuario {
 
     public void setFechaIngreso(String fechaIngreso) {
         this.fechaIngreso = fechaIngreso;
+=======
+    String apellido;
+    String userName;
+    String passWord;
+
+    public Usuario(String nombre, String apellido, String userName, String passWord) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.userName = userName;
+        this.passWord = passWord;
+    }
+
+    public String getApellido() {
+        return apellido;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
     }
 
     public String getNombre() {
@@ -103,6 +123,7 @@ public class Usuario {
         this.passWord = passWord;
     }
 
+<<<<<<< HEAD
     public String getRol() {
         return rol;
     }
@@ -111,6 +132,8 @@ public class Usuario {
         this.rol = rol;
     }
 
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
     public String getUserName() {
         return userName;
     }
@@ -120,8 +143,11 @@ public class Usuario {
     }
     
     
+<<<<<<< HEAD
     
 
     
     
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 }

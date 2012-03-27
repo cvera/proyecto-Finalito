@@ -4,7 +4,11 @@
  */
 package controladoras;
 
+<<<<<<< HEAD
 
+=======
+import controladoras.AdmUsuarios;
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 import org.junit.Test;
 import static org.junit.Assert.*;
 

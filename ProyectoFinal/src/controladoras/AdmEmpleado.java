@@ -4,16 +4,20 @@
  */
 package controladoras;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import modelos.Empleado;
 
 
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 /**
  *
  * @author CARLOS
  */
 public class AdmEmpleado {
     
+<<<<<<< HEAD
     private ArrayList<Empleado> dbEmpleados=new ArrayList<Empleado>();
     
     private void simularTabla(){
@@ -53,4 +57,6 @@ public class AdmEmpleado {
        }
        return acceso;
    }
+=======
+>>>>>>> d691b66db66f71397d540d7bdab9734265567b81
 }
